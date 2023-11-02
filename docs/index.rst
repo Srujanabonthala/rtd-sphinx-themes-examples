@@ -3,5 +3,4 @@
    :caption: Contents:
 
    contributing
-   yupiee
-   new1
+   newin
