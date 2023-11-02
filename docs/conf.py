@@ -141,6 +141,15 @@ html_theme_options = {
     'logo_only': True,
     'navigation_depth': 5,
 }
+html_sidebars = {
+    "**": [
+        "about.html",
+        "navigation.html",
+        "relations.html",
+        "searchbox.html",
+        "donate.html",
+    ]
+}
 html_context = {}
 
 # Theme options are theme-specific and customize the look and feel of a theme
