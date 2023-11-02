@@ -1,7 +1,12 @@
-sdf
-===
-Step 4: Install pip
-pip should be automatically installed along with Python. To verify this, type the following command and press “Enter:”
-Step 4: Install pip
-pip should be automatically installed along with Python. To verify this, type the following command and press “Enter:”Step 4: Install pip
-pip should be automatically installed along with Python. To verify this, type the following command and press “Enter:”
+new1
+----
+This is the first item of a bulleted list.
+
+It has a nested numbered list
+
+with two items.
+
+- This is the first item of a bulleted list.
+
+  #. It has a nested numbered list
+  #. with two items.

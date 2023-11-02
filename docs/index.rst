@@ -7,12 +7,7 @@
 
 .. toctree::
    :maxdepth: 4
-   docs/new4
-   docs/new2
-   
-.. toctree::
-   :maxdepth: 4
-   :caption: sd:
-   docs/new4
-   docs/new2 
-   docs/new3
+   new1
+   new2
+   new3
+   new4
