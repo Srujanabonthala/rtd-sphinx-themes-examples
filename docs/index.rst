@@ -6,3 +6,5 @@
 
    contributing
     new1
+    new3
+   new2
