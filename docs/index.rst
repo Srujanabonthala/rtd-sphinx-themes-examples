@@ -5,7 +5,7 @@
    :caption: Contents:
 
    contributing
-      new1
-      new3
-      new4
+      \docs\new4.rst
+      \docs\new3.rst
+      \docs\new1.rst
    new2
