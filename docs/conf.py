@@ -144,10 +144,7 @@ html_theme_options = {
 html_sidebars = {
     "**": [
         "about.html",
-        "navigation.html",
-        "relations.html",
-        "searchbox.html",
-        "donate.html",
+        "search.html",
     ]
 }
 html_context = {}
