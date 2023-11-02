@@ -5,4 +5,4 @@
    :caption: Contents:
 
    contributing
-   new1
+    new1
