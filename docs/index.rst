@@ -5,7 +5,16 @@
    :caption: Contents:
 
    contributing
-      \docs\new4.rst
-      \docs\new3.rst
-      \docs\new1.rst
+
+.. toctree::
+   :maxdepth: 1
+   new4
+   new2
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   new4
+   new2 
+   new1
    new2
